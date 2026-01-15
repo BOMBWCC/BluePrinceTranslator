@@ -1,0 +1,22 @@
+{
+    "font_size": 18,
+    "background_opacity": 0.7,
+    "hotkey_translate": "alt+q",
+    "hotkey_hide": "esc",
+    "translation_db_path": "data/translation_db.json",
+    "matching_threshold": 85,
+    "capture_roi": {
+        "top_percent": 0.1,
+        "bottom_percent": 0.9,
+        "left_percent": 0.1,
+        "right_percent": 0.9
+    },
+    "window_pos": [
+        3373,
+        565
+    ],
+    "window_size": [
+        423,
+        233
+    ]
+}
